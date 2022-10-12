@@ -13,6 +13,10 @@ const nextConfig = {
     newNextLinkBehavior: true,
     scrollRestoration: true,
   },
+  images: {
+    loader: 'akamai',
+    path: ''
+  }
 }
 
 const withMDX = nextMDX({

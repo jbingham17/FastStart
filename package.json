@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "export": "npm run build && next export"
   },
   "browserslist": "defaults, not ie <= 11",
   "dependencies": {
@@ -15,6 +16,7 @@
     "@mdx-js/loader": "^2.1.2",
     "@next/mdx": "^12.2.3",
     "@tailwindcss/typography": "^0.5.4",
+    "akamai": "^0.10.1",
     "autoprefixer": "^10.4.12",
     "clsx": "^1.2.1",
     "fast-glob": "^3.2.11",
