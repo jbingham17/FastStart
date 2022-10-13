@@ -13,6 +13,10 @@ const nextConfig = {
     newNextLinkBehavior: true,
     scrollRestoration: true,
   },
+  images: {
+    loader: "imgix",
+    path: "https://noop/",
+  }
 }
 
 const withMDX = nextMDX({

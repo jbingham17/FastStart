@@ -5,8 +5,6 @@ import clsx from 'clsx'
 
 import { Container } from '@/components/Container'
 import {
-  TwitterIcon,
-  InstagramIcon,
   GitHubIcon,
   LinkedInIcon,
 } from '@/components/SocialIcons'
@@ -56,6 +54,7 @@ export default function About() {
                 alt=""
                 sizes="(min-width: 1024px) 32rem, 20rem"
                 className="aspect-square rotate-3 rounded-2xl bg-zinc-100 object-cover dark:bg-zinc-800"
+                unoptimized
               />
             </div>
           </div>
