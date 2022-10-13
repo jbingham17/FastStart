@@ -63,6 +63,7 @@ export function ArticleLayout({
                     <li>Title: <em>{meta.contentTitle}</em></li>
                     <li>Author(s): {meta.contentAuthor}</li>
                     <li>Medium: {meta.contentType}</li>
+                    <li>Rating: {meta.rating}</li>
                   </ul>
                 </time>
               </header>
