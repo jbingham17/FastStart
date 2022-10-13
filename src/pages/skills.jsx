@@ -8,7 +8,7 @@ import css from '@/images/skills/css.svg'
 import tailwind from '@/images/skills/tailwind.svg'
 import html from '@/images/skills/html.svg'
 import linux from '@/images/skills/linux.png'
-import c from '@/images/skills/c++.png'
+import cpp from '@/images/skills/cpp.png'
 import solidity from '@/images/skills/solidity.png'
 import git from '@/images/skills/git.webp'
 import javascript from '@/images/skills/javascript.png'
@@ -104,7 +104,7 @@ export default function Skills() {
                         title="C++"
                         description="Skilled in object oriented programming, data structures, minimization of time complexity."
                         yoe="2"
-                        logo={c}
+                        logo={cpp}
                     />
                     <Sk2
                         title="Unix/Linux"

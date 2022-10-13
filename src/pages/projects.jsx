@@ -6,6 +6,7 @@ import { SimpleLayout } from '@/components/SimpleLayout'
 import logoWordle from '@/images/logos/wordle.png'
 import logoTrivki from '@/images/logos/trivki.svg'
 import logoLavaPool from '@/images/logos/LavaEthToken.png'
+import logoAvatar from '@/images/avatar.jpg'
 
 const projects = [
   {
@@ -25,16 +26,23 @@ const projects = [
   {
     name: 'LavaPool',
     description:
-      'An Ethereum Token that allows one to diversify across several liquid staking tokens',
+      'An Ethereum Token that allows one to diversify across several liquid staking tokens.',
     link: { href: 'http://lavapool.org', label: 'lavapool.org' },
     logo: logoLavaPool,
   },
   {
     name: 'Wordle Solver',
     description:
-      'An algorithm (and article explaining it) to find the optimal solution to Wordle',
+      'An algorithm (and article explaining it) to find the optimal solution to Wordle.',
     link: { href: 'https://medium.com/@john-bingham/finding-the-optimal-solution-to-wordle-83691d0800b1', label: 'medium.com' },
     logo: logoWordle,
+  },
+  {
+    name: 'This website',
+    description:
+      'Built on AWS Amplify using S3 for storage. Designed with tailwindui.',
+    link: { href: 'https://github.com/jbingham17/john-bingham', label: 'github.com' },
+    logo: logoAvatar,
   },
 ]
 

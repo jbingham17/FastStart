@@ -358,7 +358,7 @@ export default function Home() {
       <Container className="mt-9">
         <div className="max-w-2xl">
           <h1 className="text-4xl font-bold tracking-tight text-zinc-800 dark:text-zinc-100 sm:text-5xl">
-            Software developer, cloud devOps engineer, crypto hodler.
+            Software developer, cloud devOps engineer, crypto buidler.
           </h1>
           <p className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
             I&apos;m John, a software developer based in New York City. I&apos;m the creator of Trivki, a trivia website that turns Wikipedia pages into quizzes. I&apos;m deeply technical in all things AWS and have experience with full stack website development, databases, web scraping, data analysis, smart contracts, and more.
@@ -395,7 +395,7 @@ export default function Home() {
                 <Card.Title href='/projects'>
                   My projects
                 </Card.Title>
-                <Card.Description>Take a look at some of my favorite projects. Checko out the projects themselves or the open source code behind them.</Card.Description>
+                <Card.Description>Take a look at some of my favorite projects. Check out the projects themselves or the open source code behind them.</Card.Description>
                 <Card.Cta>Check out my projects!</Card.Cta>
               </Card>
             </div>
