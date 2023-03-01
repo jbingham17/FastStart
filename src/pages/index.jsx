@@ -348,20 +348,20 @@ export default function Home() {
     <>
       <Head>
         <title>
-          John Bingham - Software Developer
+          Fast Start
         </title>
         <meta
           name="description"
-          content="I’m John, a software developer based in New York City. I’m the creator of Trivki, a trivia website that turns Wikipedia pages into quizzes. I'm deeply technical in all things AWS and have experience with full stack website development, web scraping, data analysis, smart contracts, and more."
+          content="Figure out what you want to do"
         />
       </Head>
       <Container className="mt-9">
         <div className="max-w-2xl">
           <h1 className="text-4xl font-bold tracking-tight text-zinc-800 dark:text-zinc-100 sm:text-5xl">
-            Software Developer, Cloud DevOps Engineer, Crypto BUIDLer.
+            Fast Start
           </h1>
           <p className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
-            I&apos;m John, a software developer based in New York City. I&apos;m the creator of Trivki, a trivia website that turns Wikipedia pages into quizzes. I&apos;m deeply technical in all things AWS and have experience with full stack website development, databases, web scraping, data analysis, smart contracts, and more.
+            Figure out what you want to do
           </p>
           <div className="mt-6 flex gap-6">
             <SocialLink
@@ -386,35 +386,17 @@ export default function Home() {
                 <Card.Title href='/about'>
                   About me!
                 </Card.Title>
-                <Card.Description>A brief introduction to myself and my journey throughout college and life afterwards. Learn about how I became interested in cloud and crypto.</Card.Description>
-                <Card.Cta>Learn About me!</Card.Cta>
+                <Card.Description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea laboriosam quas quis provident veritatis illo ad molestiae officia, laudantium molestias maxime odio temporibus consequatur atque nesciunt, aperiam architecto, pariatur deleniti.</Card.Description>
+                <Card.Cta>About</Card.Cta>
               </Card>
             </div>
             <div>
-              <Card as="projects">
-                <Card.Title href='/projects'>
-                  My projects
+              <Card as="flyers">
+                <Card.Title href='/flyers'>
+                  Flyers
                 </Card.Title>
-                <Card.Description>Take a look at some of my favorite projects. Check out the projects themselves or the open source code behind them.</Card.Description>
-                <Card.Cta>Check out my projects!</Card.Cta>
-              </Card>
-            </div>
-            <div>
-              <Card as="skills">
-                <Card.Title href='/skills'>
-                  My skills
-                </Card.Title>
-                <Card.Description>Get a deeper understanding of my skills by understanding how and why I&apos;m skilled in different areas.</Card.Description>
-                <Card.Cta>Get to know me!</Card.Cta>
-              </Card>
-            </div>
-            <div>
-              <Card as="blog">
-                <Card.Title href='/blog'>
-                  Bingham&apos;s Blog
-                </Card.Title>
-                <Card.Description>Read along with me in my book blog. This blog focuses on my reactions to a plethora of different books, article, podcasts, and more.</Card.Description>
-                <Card.Cta>See what I&apos;m reading!</Card.Cta>
+                <Card.Description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea laboriosam quas quis provident veritatis illo ad molestiae officia, laudantium molestias maxime odio temporibus consequatur atque nesciunt, aperiam architecto, pariatur deleniti.</Card.Description>
+                <Card.Cta>Flyers</Card.Cta>
               </Card>
             </div>
           </div>

@@ -60,59 +60,26 @@ export default function About() {
           </div>
           <div className="lg:order-first lg:row-span-2">
             <h1 className="text-4xl font-bold tracking-tight text-zinc-800 dark:text-zinc-100 sm:text-5xl">
-              I&apos;m John Bingham. Welcome to my virtual crib.
+              About Fast Start
             </h1>
             <div className="mt-6 space-y-7 text-base text-zinc-600 dark:text-zinc-400">
               <p>
-                I grew up on (yes, on) Long Island but attended Regis High School in Manhattan.
-                After high school I attended the University of Notre Dame in South Bend,
-                Indiana. I entered college unsure of what I wanted to do in life.
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea laboriosam quas quis provident veritatis illo ad molestiae officia, laudantium molestias maxime odio temporibus consequatur atque nesciunt, aperiam architecto, pariatur deleniti.
               </p>
               <p>
-                In Notre Dame&apos;s engineering program the first programming language we learned
-                was MatLab of all things. Despite the fact that arrays began at 1 I fell in love
-                with it. I became a Computer Science major and loved the majority of my coursework.
-                The best class I took at Notre Dame was Cryptography with Professor Taeho Jung.
-                In the class we learned about encryption, hashing algorithms, and the math behind
-                Bitcoin. A comprehensive understanding of Bitcoin got me very interested in crypto
-                and specifically Ethereum, which I have a deep understanding of.
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea laboriosam quas quis provident veritatis illo ad molestiae officia, laudantium molestias maxime odio temporibus consequatur atque nesciunt, aperiam architecto, pariatur deleniti.
               </p>
               <p>
-                After taking a couple of summer courses I realized that I had the opportunity
-                to graduate a semester early and take only 3 classes my senior year. I decided
-                to pursue this opportunity, and began to learn about the AWS cloud in my free
-                time to keep myself sharp. Then, luckily, a friend reached out with an
-                opportunity to help design a website for a charity bike race: The Journey of
-                Awesomeness. I jumped at the chance to do something to help other people using my
-                skillset. I built the website on AWS and raised over $250,000 in donations through
-                the website that I built from scratch.
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea laboriosam quas quis provident veritatis illo ad molestiae officia, laudantium molestias maxime odio temporibus consequatur atque nesciunt, aperiam architecto, pariatur deleniti.
               </p>
               <p>
-                Unfortunately Notre Dame&apos;s Computer Science Department tends to funnel graduates into 
-                consulting. I became one of ~60% of my graduating class that ended up in some
-                form of consulting, taking a job at PwC. When given the chance to pick my group
-                I chose the Cloud Computing group, thinking I would be able to expand my skills in AWS.
-                While I did continue to expand my skills in AWS by earning more and more advanced certifications
-                on the side, it did not help in my role. Initially I was just making PowerPoint slide
-                decks about IT infrastructure, which did not interest me at all. I was able to transition
-                to a slightly more technical role where I built automations using SQL and Tableau, but
-                I grew frustrated with the beauracracy and antiquated technology being used within our client
-                as well as the lack of interpersonal connection I was getting from a totally virtual project.
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea laboriosam quas quis provident veritatis illo ad molestiae officia, laudantium molestias maxime odio temporibus consequatur atque nesciunt, aperiam architecto, pariatur deleniti.
               </p>
               <p>
-                I found myself far more interested in side projects than I was in my actual job. I built
-                a cool Wordle Solver while Wordle was just growing big. I recruited some friends to join
-                me in participating in an Ethereum hackathon called Hack Money. We built a new token, LavaPool that
-                would allow one to diversify their risk of investing in a single liquid Ethereum staking
-                token. Eventually I realized that I would be far more productive, learn much more, and be able to work on
-                projects that interested me more if I left PwC. I decided to leave in late June 2022.
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea laboriosam quas quis provident veritatis illo ad molestiae officia, laudantium molestias maxime odio temporibus consequatur atque nesciunt, aperiam architecto, pariatur deleniti.
               </p>
               <p>
-                The main project that I worked on after leaving PwC was Trivki. As a big geography and trivia 
-                buff I was frustrated that there were no Trivia websites that updated their quizzes automatically.
-                The existing websites, Sporcle and JetPunk, work well for static quizzes like Countries of the World
-                but not for dyanmic quizzes like the New York Mets Roster today. I decided to create my own and pull
-                all the data from Wikipedia, which has plethora of free data.
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea laboriosam quas quis provident veritatis illo ad molestiae officia, laudantium molestias maxime odio temporibus consequatur atque nesciunt, aperiam architecto, pariatur deleniti.
               </p>
             </div>
           </div>
